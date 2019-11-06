@@ -1,2 +1,3 @@
 # ConfigurationProfiles
-Configuration Profiles
+Configuration Profiles for macOS. Nothing too exciting.
+
