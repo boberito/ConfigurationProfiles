@@ -14,10 +14,6 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>AppCanShowSiriSuggestionsBlacklist</key>
-								<array>
-									<string>com.apple.mail</string>
-								</array>
 								<key>SiriCanLearnFromAppBlacklist</key>
 								<array>
 									<string>com.apple.mail</string>
